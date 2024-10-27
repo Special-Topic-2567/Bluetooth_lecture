@@ -12,3 +12,5 @@ https://github.com/SitthaKlaphanich/ble_spp_server
 ![image](https://github.com/user-attachments/assets/1e4798c9-4ae4-4c81-9cbb-3111a8e9b5a5)
 
 
+### ทำให้ ESP32 เป็น BLE Server ที่เปิดให้ BLE Client เช่น สมาร์ทโฟน เชื่อมต่อเข้ามา
+
