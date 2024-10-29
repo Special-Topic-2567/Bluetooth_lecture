@@ -1,9 +1,7 @@
 # Bluetooth_lecture
 
-## [ความเป็นมาของ Bluetooth](https://github.com/Special-Topic-2567/Bluetooth_lecture/blob/main/Bluetooth_1.md)
+https://github.com/fulk2014/ble_spp_server-main
 
-## [Bluetooth Packet Format](https://github.com/Special-Topic-2567/Bluetooth_lecture/blob/main/Bluetooth_2.md)
+![image](https://github.com/user-attachments/assets/c588c58e-ed8d-4bfd-83e4-fe39cbc7615b)
 
-## [Bluetooth Protocol Stack](https://github.com/Special-Topic-2567/Bluetooth_lecture/blob/main/Bluetooth_3.md)
-
-## [Bluetooth Smart](https://github.com/Special-Topic-2567/Bluetooth_lecture/blob/main/Bluetooth_4.md)
+![Uploading image.png…]()
